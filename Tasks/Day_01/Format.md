@@ -23,10 +23,10 @@ Here’s a full list of **`format` options** with examples 👇
 | format longEng  | 15 digits, engineering notation                             | 3.141592653589793e+00 |
 
 
-![](../Images/f1.png)
-![](../Images/f2.png)
-![](../Images/f3.png)
-![](../Images/f4.png)
+![f1](../Images/f1.png)
+![f2](../Images/f2.png)
+![f3](../Images/f3.png)
+![f4](../Images/f4.png)
 
 
 
