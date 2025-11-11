@@ -42,8 +42,8 @@ I believe in **“learning by doing”**, so this repo will grow gradually — o
 
 | Day | Date | Topic / Chapter | Exercise / Question | Notes / Notebook | Status |
 |:---:|:----:|:----------------|:--------------------|:-----------------|:--------|
-| 01 | Nov 08, 2025 | Introduction to MATLAB | Basics: Workspace, Commands | [Day-01](./Day-01_Introduction/README.md) | ✅ Completed |
-| 02 | Nov 09, 2025 | Matrices & Arrays | Matrix operations, transpose | [Day-02](./Day-02_Matrices/README.md) | ⏳ In Progress |
+| 01 | 10/11/2025 | Introduction to MATLAB | Basics: Workspace, Commands | [Day-01](./Day-01_Introduction/README.md) | ✅ Completed |
+| 02 | 11/11/2025 | Vectors | Vector operations | [Day-02](./Day-02_Vectors/README.md) | ✅ Completed |
 | 03 | ... | ... | ... | ... | ... |
 
 🟢 = Completed  
