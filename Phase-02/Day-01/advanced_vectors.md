@@ -185,27 +185,27 @@ All sections are separated and documented clearly inside the `.m` file.
 
 
 **➡Basic vector tasks output**  
-![output_1](../Outputs/output_1.png)
+![output_1](Outputs/output_1.png)
 
 
 **➡ y = x^2 graph** 
 
-![output_1](../Outputs/output_8.png)
+![output_1](Outputs/output_8.png)
 
 **➡ Advanced vector operations output**  
 
-![output_1](../Outputs/output_2.png)
+![output_1](Outputs/output_2.png)
 
-![output_1](../Outputs/output_3.png)
+![output_1](Outputs/output_3.png)
 
-![output_1](../Outputs/output_4.png)
+![output_1](Outputs/output_4.png)
 
 **➡ Sine graph / Stem plot**  
-![output_1](../Outputs/output_5.png)
+![output_1](Outputs/output_5.png)
 
 **➡ Quiver plot**  
-![output_1](../Outputs/output_6.png)
+![output_1](Outputs/output_6.png)
 
 **➡  Derivative output**  
-![output_1](../Outputs/output_7.png)
+![output_1](Outputs/output_7.png)
 
